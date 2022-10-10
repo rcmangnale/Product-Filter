@@ -8,7 +8,7 @@ function App() {
     <>
       <Navbar></Navbar>
       <marquee>
-        <div className="grid grid-cols-5 text-lg font-bold lg:text-7xl">
+        <div className="grid grid-cols-5 text-lg font-bold lg:gap-2 lg:text-7xl">
           <p>Sneakers</p>
           <p>Oxfords</p>
           <p>Loafers</p>
