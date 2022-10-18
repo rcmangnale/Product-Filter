@@ -5,7 +5,7 @@ const Shoes = () => {
   //   console.log(data);
   const [Shoes, setShoes] = useState(data);
 
-  //   Filter Type burgers/pizza/etc
+  //   Filter Type Catergory
   const filterType = (category) => {
     setShoes(
       data.filter((item) => {
