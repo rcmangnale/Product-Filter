@@ -21,7 +21,7 @@ export default function Everyone() {
                     NEW
                   </button>
                   <p className="pt-3 font-bold">Air Jorden 1 Mid SE</p>
-                  <p className=" text-md font-extralight">₹ 65 </p>
+                  <p className=" text-md font-extralight">₹ 650 </p>
                 </div>
                 <div>
                   <ul className="flex flex-row items-center justify-center">
