@@ -1,4 +1,4 @@
-Live Demo - (https://shoes-filter.vercel.app/)
+Live Demo - [Live Demo](https://shoes-filter.vercel.app/)
 
 # Getting Started with Create React App
 
