@@ -6,7 +6,7 @@ export default function Navbar() {
       <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div className="relative flex justify-between lg:gap-8 xl:grid-cols-12">
           <div className="flex md:absolute md:inset-y-0 md:left-0 lg:static xl:col-span-2">
-            <div className="flex items-center flex-shrink-0 text-xl font-bold">
+            <div className="flex items-center flex-shrink-0 text-xl font-bold ">
               <p>NIKERS</p>
             </div>
           </div>
